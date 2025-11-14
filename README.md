@@ -18,9 +18,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 👨‍💻 About Me
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 ```python
 dinusara = {
@@ -32,6 +32,16 @@ dinusara = {
     "ask_me_about": ["Web Dev", "Deep learning", "OOP Concepts"],
     "fun_fact": "I debug with print() and I'm not ashamed! 😄"
 }
+```
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+  
+  </td>
+</tr>
+</table>
 ```
 
 <br clear="right"/>
@@ -111,7 +121,7 @@ dinusara = {
 
 ---
 
-<h2 align="center">💖 Support My Work</h2>
+<h2 align="center">Support</h2>
 
 <div align="center">
   <a href="https://buymeacoffee.com/dinsuara">
@@ -126,10 +136,27 @@ dinusara = {
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/DinusaraNethmal/DinusaraNethmal/output/github-contribution-grid-snake-dark.svg)
-
 </div>
+
+### 🐍 Contribution Snake
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+<img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
+
+</td>
+<td width="50%" align="center">
+
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+
+  
+  </td>
+</tr>
+</table>
+
+
 
 ---
 
@@ -139,7 +166,7 @@ dinusara = {
 
 <div align="center">
   
-**✨ Made with ❤️ by Dinusara Nethmal**
+**✨I am > I was**
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
