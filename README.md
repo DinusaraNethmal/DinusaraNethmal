@@ -114,7 +114,7 @@ dinusara = {
 <h2 align="center">💖 Support My Work</h2>
 
 <div align="center">
-  <a href="buymeacoffee.com/Dinsuara">
+  <a href="https://buymeacoffee.com/dinsuara">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </div>
