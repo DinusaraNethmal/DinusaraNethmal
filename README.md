@@ -1,12 +1,12 @@
 ## Hi there 👋
+<p align="center" width="100%">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20👋;I'm%20Dinusara%20Nethmal;SLIIT%20Undergraduate%20🎓&font=Calibri&center=true&width=440&height=45&weight=700&color=#00ddff&vCenter=true&size=28" width="100%"></a>
+</p>
 
  <p align="center">
   <img width="500" height="300" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
 </p
 
-<p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20👋;I'm%20Dinusara%20Nethmal;SLIIT%20Undergraduate%20🎓&font=Calibri&center=true&width=440&height=45&weight=700&color=#00ddff&vCenter=true&size=28" width="100%"></a>
-</p>
 <!--
 **DinusaraNethmal/DinusaraNethmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
