@@ -152,7 +152,10 @@ dinusara = {
 
 </div>
 
-### 🐍 Contribution Snake
+<h3 align="center">╔══════════════════╗
+║   ║
+╚══════════════════╝
+</h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -180,7 +183,6 @@ dinusara = {
 
 <div align="center">
   
-**✨I am > I was**
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
