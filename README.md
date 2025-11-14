@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Dinusara+Nethmal;SLIIT+Undergraduate;Passionate+About+Innovation+%26+Technology&font=Montserrat&center=true&width=440&height=50&weight=700&color=#00ddff&&vCenter=true&size=28&duration=3500&pause=1200" width="100%">
-  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20👋;I'm%20Dinusara%20Nethmal;SLIIT%20Undergraduate%20🎓&font=Calibri&center=true&width=440&height=45&weight=700&color=#00ddff&vCenter=true&size=28" width="100%"></a>
 </p>
 <!--
 **DinusaraNethmal/DinusaraNethmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
