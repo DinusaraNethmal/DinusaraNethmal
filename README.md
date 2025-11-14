@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+ <a href="https://github.com/HishenPerera">
+  <img src="https://github.com/HishenPerera/HishenPerera/blob/main/Profile%20Assets/octocat-1742102673869.png" height="280" width="279"/>
+ </a>
+</p>
+
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20👋;I'm%20Dinusara%20Nethmal;SLIIT%20Undergraduate%20🎓&font=Calibri&center=true&width=440&height=45&weight=700&color=#00ddff&vCenter=true&size=28" width="100%"></a>
 </p>
