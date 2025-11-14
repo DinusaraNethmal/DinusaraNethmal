@@ -2,7 +2,7 @@
 
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there!;I'm+Dinusara+Nethmal+✨;SLIIT+Undergraduate+🎓+|+Tech+Enthusiast+💻;Building+the+Future,+One+Line+at+a+Time+🚀&font=Fira+Code&center=true&width=600&height=80&weight=700&color=00FF9F&vCenter=true&size=32&duration=4000&pause=1000" width="100%">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Dinusara+Nethmal;Software+Engineering+Undergraduate;SLIIT+%7C+Batch+2023;Passionate+About+Innovation+%26+Technology&font=Montserrat&center=true&width=550&height=70&weight=600&color=4A9EFF&vCenter=true&size=26&duration=3500&pause=1200" width="100%">
   </a>
 </p>
 <!--
