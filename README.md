@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center" width="100%">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there!;I'm+Dinusara+Nethmal+✨;SLIIT+Undergraduate+🎓+|+Tech+Enthusiast+💻;Building+the+Future,+One+Line+at+a+Time+🚀&font=Fira+Code&center=true&width=600&height=80&weight=700&color=00FF9F&vCenter=true&size=32&duration=4000&pause=1000" width="100%">
+  </a>
+</p>
 <!--
 **DinusaraNethmal/DinusaraNethmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
