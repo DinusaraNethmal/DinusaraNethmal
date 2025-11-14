@@ -2,7 +2,7 @@
 
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%">
-    <img src="https://readme-typing-svg.herokuapp.com/?linesI'm%20Hishen%20Perera;SLIIT%20Undergraduate%20🎓;Passionate+About+Innovation+%26+Technology&font=Montserrat&center=true&width=440&height=50&weight=700&color=143664&vCenter=true&size=28&duration=3500&pause=1200" width="100%">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Dinusara+Nethmal;SLIIT+Undergraduate;Passionate+About+Innovation+%26+Technology&font=Montserrat&center=true&width=440&height=50&weight=700&color=143664&vCenter=true&size=28&duration=3500&pause=1200" width="100%">
   </a>
 </p>
 <!--
