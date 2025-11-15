@@ -30,7 +30,6 @@ dinusara = {
     "learning": ["Java web devlopment", "AI/ML", "Deep learning"],
     "interests": ["Problem Solving", "Open Source", "Innovation"],
     "ask_me_about": ["Web Dev", "Deep learning", "OOP Concepts"],
-    "fun_fact": "I debug with print() and I'm not ashamed! 😄"
 }
 ```
 </td>
@@ -182,8 +181,5 @@ dinusara = {
 </div>
 
 <div align="center">
-  
-
-*"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
