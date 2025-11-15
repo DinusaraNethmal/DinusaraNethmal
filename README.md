@@ -22,16 +22,13 @@
 <tr border="none">
 <td width="50%" align="left">
 
-```python
-dinusara = {
-    "pronouns": "He | Him",
-    "location": "Sri Lanka 🇱🇰",
-    "current_focus": "Undergraduate at Sri Lanka Institute of Information Technology",
-    "learning": ["Java web devlopment", "AI/ML", "Deep learning"],
-    "interests": ["Problem Solving", "Open Source", "Innovation"],
-    "ask_me_about": ["Web Dev", "Deep learning", "OOP Concepts"],
-}
-```
+- 💡 Diving into code, creativity, and the unknown—let’s learn and grow together!
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
+- 🌱 I'm currently learning **Java Servlets** and **Spring Boot**, along with **Machine Learning** and **Deep Learning** concepts.
+
+- 📫 How to reach me **dinusaranethmal@gmail.com**
 </td>
 <td width="50%" align="center">
 
