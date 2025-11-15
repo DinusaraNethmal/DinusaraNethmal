@@ -154,20 +154,11 @@
 </h3>
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="50%" align="center">
 
 <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
 
-</td>
-<td width="50%" align="center">
 
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
-
-  
-  </td>
-</tr>
-</table>
 
 
 
