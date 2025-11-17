@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/DinusaraNethmal.svg)](https://user-badge.committers.top/sri_lanka_private/DinusaraNethmal)
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dinusara%20Nethmal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
